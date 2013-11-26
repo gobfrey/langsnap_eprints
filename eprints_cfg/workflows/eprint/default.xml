@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+Action buttons (Previous/Save/Next) can be shown "top", "bottom" or "both":
+<stage name="type" action_buttons="both">
+  <component><field ref="type" required="yes" /></component>
+</stage>
+
+-->
+
+<workflow xmlns="http://eprints.org/ep3/workflow" xmlns:epc="http://eprints.org/ep3/control">
+  <flow>
+    <stage ref="core"/>
+    <stage ref="files"/>
+  </flow>
+
+  <stage name="files">
+    <component type="Upload" show_help="always" />
+    <component type="Documents">
+      <field ref="content" />
+      <field ref="format" />
+      <field ref="formatdesc" />
+<!--  <field ref="relation" /> -->
+<!--  <field ref="language" /> --> 
+    </component>
+  </stage>
+
+
+  <stage name="core">
+
+    <component type="Field::Multi">
+      <title>Details</title>
+          <field ref="ls_language" required="yes" />
+          <field ref="ls_participant" required="yes" />
+          <field ref="ls_investigator" required="yes" />
+          <field ref="ls_round" required="yes" />
+          <field ref="ls_activity_type" required="yes" />
+          <field ref="ls_activity" required="yes" />
+    </component>
+  </stage>
+
+</workflow>

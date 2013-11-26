@@ -1,0 +1,81 @@
+
+/* 
+ * This CSS file will be applied after all the built in styles.
+ * 
+ * CSS files are loaded in alphabetic order, hence the  "zzz" in 
+ * the filename to force it to load after the other css files!
+ * 
+ * Add any local over-rides here. 
+ * 
+ * To totally replace a system css file, create a file of the same 
+ * name in this directory. eg. messages.css
+ * 
+*/
+
+table.browse_list_table
+{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table.browse_list_table ul
+{
+	list-style-type: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 0px;
+	margin-left: 0px;
+}
+table.browse_list_table li
+{
+	padding-left: 0px;
+}
+
+table.browse_list_table tr.heading_row
+{
+	text-align: left;
+	background-color: #056273;
+	color: #ffffff;
+}
+
+table.browse_list_table td,
+table.browse_list_table th
+{
+	border-bottom: 1px solid #DFDFDF;
+	padding-left: 10px;	
+	padding-right: 10px;	
+}
+
+
+
+table.abstractbox caption
+{
+	background-color: #056273;
+	padding: 0 5px;
+	text-align: left;
+    line-height: 36px;
+	font-size: 22px;
+	color: #ffffff;
+}
+
+table.abstractbox
+{
+	width: 100%;
+	margin-bottom: 18px;
+}
+
+table.abstractbox audio
+{
+	width: 100%;
+}
+
+table.abstractbox td
+{
+	padding: 0.5em;
+}
+
+table.abstractbox, table.abstractbox, table.browse_list_table
+{
+	border: 1px solid #DFDFDF;
+}
