@@ -16,15 +16,18 @@ my $base = '/data/langsnap_data';
 
 my @files = File::Find::Rule->file()->in($base);
 
+my $ps = {};
+
 my $data = {};
 foreach my $file (@files)
 {
 	my @parts = split(/\//, $file);
 	my $filename = $parts[$#parts];
 
-	if ($filename =~ m/([A-Z])([0-9]*)([a-z])([A-Z]*)\.([A-Za-z3\.]+)$/)
+	if ($filename =~ m/([A-Z])([0-9]*)([a-z])([A-Zc]*)\.([A-Za-z3\.]+)$/)
 	{
 		my ($activity, $participant, $visit, $investigator, $extension) = ($1,$2,$3,$4,$5);
+
 		push @{$data->{$participant}->{$visit}->{$activity}},
 		{
 			participant => $participant,
@@ -200,7 +203,7 @@ sub val
 		my $l = from_annotation('@languages', $data);
 		return 'french' if $l =~ m/fr/;
 		return 'spanish' if $l =~ m/sp/;
-
+die 'Unknown Language';
 	}
 
 	if ($fieldname eq 'ls_participant')
@@ -220,7 +223,7 @@ sub val
 			F => 'writing'
 		};
 		my $code = $data->[0]->{activity};
-		die ("Unknown code $code\n") unless $map->{$code};
+		die ("Unknown code $code\n" . $data->[0]->{file} . "\n") unless $map->{$code};
 		return $map->{$code};
 	}
 
@@ -236,7 +239,7 @@ sub val
 			F => 'fast_food'
 		};
 		my $code = $data->[0]->{activity};
-		die ("Unknown code $code\n") unless $map->{$code};
+		die ("Unknown code $code\n" . $data->[0]->{file} . "\n") unless $map->{$code};
 		return $map->{$code};
 	}
 

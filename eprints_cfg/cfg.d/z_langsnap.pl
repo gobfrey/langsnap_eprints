@@ -5,7 +5,8 @@ foreach (
 	{ name=>"ls_round", type=>"set", options => ['pretest','abroad_1','abroad_2','abroad_3','posttest_1','posttest_2','native']},
 	{ name=>"ls_round_order", type=>"text" },
 	{ name=>"ls_activity_type", type=>"set", options => ['interview','narrative','writing'] },
-	{ name=>"ls_activity", type=>"set", options => ['interview','cat_story','brothers_story','sisters_story','drugs','gay_adoption','fast_food'], render_value => 'render_ls_activity'}
+	{ name=>"ls_activity", type=>"set", options => ['interview','cat_story','brothers_story','sisters_story','drugs','gay_adoption','fast_food'], render_value => 'render_ls_activity'},
+	{ name=>"ls_activity_browse", type=>"text" }
 )
 {
 	$c->add_dataset_field( 'eprint', $_);
@@ -50,25 +51,30 @@ $c->{set_eprint_automatic_fields} = sub
 	$title .= ', ';
 	$title .= EPrints::Utils::tree_to_utf8($eprint->render_value('ls_round'));
 	$title .= ', ';
-	$title .= EPrints::Utils::tree_to_utf8($eprint->render_value('ls_activity_type'));
-	if ($eprint->value('ls_activity_type') && $eprint->value('ls_activity_type') ne 'interview')
-	{
-		$title .= ' (' . EPrints::Utils::tree_to_utf8($eprint->render_value('ls_activity')) . ')';
-	};
+	$title .= EPrints::Utils::tree_to_utf8($eprint->render_value('ls_activity'));
+
 	$eprint->set_value('title', $title);
+
+	$eprint->set_value('ls_activity_browse', EPrints::Utils::tree_to_utf8($eprint->render_value('ls_activity')));
 
 	#sort out round orderval
 	my $map =
 	{
-		'pretest' => 'a',
-		'abroad_1' => 'b',
-		'abroad_2' => 'c',
-		'abroad_3' => 'd',
-		'posttest_1' => 'e',
-		'posttest_2' => 'f',
-		'native' => 'n',
+		'pretest' => '1',
+		'abroad_1' => '2',
+		'abroad_2' => '3',
+		'abroad_3' => '4',
+		'posttest_1' => '5',
+		'posttest_2' => '6',
+		'native' => 'N',
 	};
-	$eprint->set_value('ls_round_order', $map->{$eprint->value('ls_round')});
+
+	my $orderval = $map->{$eprint->value('ls_round')};
+	$orderval .= ' (';
+	$orderval .= EPrints::Utils::tree_to_utf8($eprint->render_value('ls_round'));
+	$orderval .= ')';
+
+	$eprint->set_value('ls_round_order', $orderval);
 
 
 };
@@ -119,6 +125,10 @@ $c->{browse_views} = [
                 id => "participant",
                 menus => [
                         {
+                                fields => [ "ls_language" ],
+                                new_column_at => [10,10],
+                        },
+                        {
                                 fields => [ "ls_participant" ],
                                 new_column_at => [10,10],
                         }
@@ -132,11 +142,32 @@ $c->{browse_views} = [
                 id => "activity",
                 menus => [
                         {
-                                fields => [ "ls_activity" ],
+                                fields => [ "ls_language" ],
+                                new_column_at => [10,10],
+                        },
+                        {
+                                fields => [ "ls_activity_browse" ],
                                 new_column_at => [10,10],
                         }
                 ],
                 order => "ls_participant/ls_round_order",
+                variations => [
+                        "DEFAULT;render_fn=ls_render_browse_itempage"
+		],
+        },
+        {
+                id => "round",
+                menus => [
+                        {
+                                fields => [ "ls_language" ],
+                                new_column_at => [10,10],
+                        },
+                        {
+                                fields => [ "ls_round_order" ],
+                                new_column_at => [10,10],
+                        }
+                ],
+                order => "ls_participant/ls_activity",
                 variations => [
                         "DEFAULT;render_fn=ls_render_browse_itempage"
 		],
