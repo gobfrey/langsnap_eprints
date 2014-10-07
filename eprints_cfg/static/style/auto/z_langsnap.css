@@ -79,3 +79,98 @@ table.abstractbox, table.abstractbox, table.browse_list_table
 {
 	border: 1px solid #DFDFDF;
 }
+
+
+#ep_tm_menu_browse {
+}
+
+#ep_tm_menu_disseminate {
+}
+
+#ep_tm_menu_the_project {
+}
+
+#ep_tm_menu_the_team {
+}
+
+#ep_tm_menu_conference {
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text_wrap_right {
+    float: right;
+    margin: 10px;
+}
+
+em {
+    color:  #2C5C81;
+}
+
+.item_title {
+    color:  #2C5C81;
+    font-style:italic;
+}
+
+.table {
+    border-collapse: collapse;   
+    border: 1px solid #DFDFDF;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.table caption {
+    background-color: #056273;
+    color: #FFFFFF;
+    padding:  5px;
+    text-align: left;
+}
+
+.table th, .table td {
+    border-bottom: 1px solid #DFDFDF;  
+    padding: 10px;
+    text-align: left;
+}
+
+.table tr:nth-child(2n+1) td {
+    background-color: #F9F9F9;
+}
+
+.table td {
+    background-color: #FFFFFF;
+    text-align: left;
+    vertical-align: top;
+}
+
+.table th {
+    background-color: #EFEFEF;
+    color: #666666;
+    font-size: 16px;
+} 
+
+ul.publication {
+    list-style: none outside none;
+}
+
+ul.publication li {
+    padding: 10px;;
+}
+
+.programme td:first-child {
+   width: 100px;
+}
+ul {
+    list-style: disc outside none !important;
+    margin-left: 0;
+    padding-left: 30px;
+}
+
+ul li {
+    padding-left: 10px;
+}
+
+    
+   

@@ -2,102 +2,154 @@
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
 
-  <!-- This file is used to add phrases from the phrase editor screen -->
+<!-- This file is used to add phrases from the phrase editor screen -->
+
+<epp:phrase id="ls_summary_table_eprint_fieldname_ls_round_order">Round</epp:phrase>
+<epp:phrase id="ls_summary_table_eprint_fieldname_ls_activity">Activity</epp:phrase>
+<epp:phrase id="ls_summary_table_eprint_fieldname_ls_activity_type">Activity</epp:phrase>
+<epp:phrase id="ls_summary_table_eprint_fieldname_ls_investigator">Investigator</epp:phrase>
+<epp:phrase id="ls_summary_table_eprint_fieldname_ls_language">Language</epp:phrase>
+<epp:phrase id="ls_summary_table_eprint_fieldname_ls_participant">Participant</epp:phrase>
+<epp:phrase id="ls_summary_table_eprint_fieldname_ls_round">Round</epp:phrase>
+<epp:phrase id="Update/Views:export_section"></epp:phrase>
+<epp:phrase id="bin/generate_views:blurb"></epp:phrase>
+<epp:phrase id="viewname_eprint_language">Language</epp:phrase>
+<epp:phrase id="viewname_eprint_participant">Participant</epp:phrase>
+<epp:phrase id="viewname_eprint_activity">Activity</epp:phrase>
+<epp:phrase id="viewname_eprint_round">Collection Round</epp:phrase>
+<epp:phrase id="document_fieldopt_ls_document_type_audio_mp3">Audio (MP3)</epp:phrase>
+<epp:phrase id="document_fieldopt_ls_document_type_audio_wav">Audio (wav)</epp:phrase>
+<epp:phrase id="document_fieldopt_ls_document_type_transcript">Transcript</epp:phrase>
+<epp:phrase id="document_fieldopt_ls_document_type_transcript_with_grammar_analysis">Transcript with grammar analysis</epp:phrase>
+<epp:phrase id="eprint_fieldname_ls_round_order">Data Collection Round</epp:phrase>
+<epp:phrase id="eprint_fieldname_ls_activity">Activity</epp:phrase>
+<epp:phrase id="eprint_fieldname_ls_activity_type">Activity Type</epp:phrase>
+<epp:phrase id="eprint_fieldname_ls_investigator">Investigator</epp:phrase>
+<epp:phrase id="eprint_fieldname_ls_language">Language</epp:phrase>
+<epp:phrase id="eprint_fieldname_ls_participant">Participant ID</epp:phrase>
+<epp:phrase id="eprint_fieldname_ls_round">Data Collection Round</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_brothers_story">Brothers Story</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_cat_story">Cat Story</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_drugs">Drugs</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_fast_food">Fast Food</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_gay_adoption">Gay Adoption</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_interview">Interview</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_sisters_story">Sisters Story</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_type_interview">Interview</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_type_narrative">Narrative</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_activity_type_writing">Writing</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_language_french">French</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_language_spanish">Spanish</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_abroad_1">Visit Abroad 1</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_abroad_2">Visit Abroad 2</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_abroad_3">Visit Abroad 3</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_native">Native Speaker</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_posttest_1">Posttest 1</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_posttest_2">Posttest 2</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_pretest">Pretest</epp:phrase>
+
+<epp:phrase id="eprint_fieldopt_ls_round_posttest_1">Posttest 1</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_posttest_2">Posttest 2</epp:phrase>
+<epp:phrase id="eprint_fieldopt_ls_round_pretest">Pretest</epp:phrase>
+
+<epp:phrase id="document_fieldopt_content_audio">Audio Recording</epp:phrase>
+<epp:phrase id="document_fieldopt_content_transcript">Transcript</epp:phrase>
+<epp:phrase id="document_fieldopt_content_transcript_with_grammar_analysis">Transcript with Grammar Analysis</epp:phrase>
+
+<epp:phrase id="template/navigation:the_data">Browse Data</epp:phrase>
+<epp:phrase id="template/navigation:the_team">The Team</epp:phrase>
+<epp:phrase id="template/navigation:the_project">The Project</epp:phrase>
+
+<epp:phrase id="template/navigation:team">Team</epp:phrase>
+<epp:phrase id="template/navigation:disseminate">Dissemination</epp:phrase>
+<epp:phrase id="template/navigation:presentations">Presentations</epp:phrase>
+<epp:phrase id="template/navigation:publications">Publications</epp:phrase>
+<epp:phrase id="template/navigation:conference">Conference</epp:phrase>
+
+<epp:phrase id="template/navigation:project">The LANGSNAP Project</epp:phrase>
+<epp:phrase id="template/navigation:data">DATA</epp:phrase>
+<epp:phrase id="template/navigation:tasks">Tasks</epp:phrase>
+<epp:phrase id="template/navigation:conventions">Transcription Conventions</epp:phrase>
+<epp:phrase id="template/navigation:links">Links</epp:phrase>
+<epp:phrase id="template/navigation:team">The Team</epp:phrase>
+<epp:phrase id="template/navigation:theL2FrenchParticipants">The L2 French Participants</epp:phrase>
+<epp:phrase id="template/navigation:theL2SpanishParticipants">The L2 Spanish Participants</epp:phrase>
+<epp:phrase id="template/navigation:contact">Contact Us</epp:phrase>
+<epp:phrase id="template/navigation:conferencePlenarySpeakers">Plenary Speakers</epp:phrase>
+<epp:phrase id="template/navigation:preConferenceWorkshop">Pre-Conference Workshop</epp:phrase>
+<epp:phrase id="template/navigation:conferencePresnetations">Presentations</epp:phrase>
+<epp:phrase id="template/navigation:conferenceProgramme">Programme</epp:phrase>
+
+<epp:phrase id="lib/lang/en/phrases:ep_tm_menu_browse">
+
+<div class="twelve columns menu horizontal">
+<!--  <h1 class="hide-on-desktop hide-on-tablet">Main Menu</h1>  -->
+<ul>
+   <li>	<a href="{$config{http_url}}"><epc:phrase ref="template/navigation:home"/></a></li>
 
 
+   <li><a href="{$config{http_url}}/view/" menu="ep_tm_menu_browse"><epc:phrase ref="template/navigation:the_data"/></a>
+	<ul id="ep_tm_menu_browse">
+		<!--<li><a href="{$config{http_url}}/view/language/"> <epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_language"/></a></li>--> 
+		<li><a href="{$config{http_url}}/view/activity/"><epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_activity"/></a></li>
+		<li><a href="{$config{http_url}}/view/round/"><epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_round"/></a></li>
+		<li><a href="{$config{http_url}}/view/participant/"><epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_participant"/></a></li>
+	</ul>
+   </li>
 
+   <li>
+	<a href="{$config{http_url}}/project.html" menu="ep_tm_menu_the_project"><epc:phrase ref="template/navigation:the_project"/></a>
+	<ul id="ep_tm_menu_the_project">
+		<li><a href="{$config{http_url}}/project.html"><epc:phrase ref="template/navigation:project"/></a></li>
+		<li><a href="{$config{http_url}}/tasks.html"><epc:phrase ref="template/navigation:tasks"/></a></li>
+		<li><a href="{$config{http_url}}/conventions.html"><epc:phrase ref="template/navigation:conventions"/></a></li>
+		<li><a href="{$config{http_url}}/links.html"><epc:phrase ref="template/navigation:links"/></a></li>
+		<li><a href="{$config{http_url}}/theL2FrenchParticipants.html"><epc:phrase ref="template/navigation:theL2FrenchParticipants"/></a></li>
+		<li><a href="{$config{http_url}}/theL2SpanishParticipants.html"><epc:phrase ref="template/navigation:theL2SpanishParticipants"/></a></li>
+	</ul>				
+   </li>
+   <!-- <li><a href="{$config{http_url}}/team.html" menu="ep_tm_menu_the_team"><epc:phrase ref="template/navigation:the_team"/></a>
+	<ul id="ep_tm_menu_the_team"> -->
+		<li><a href="{$config{http_url}}/team.html"><epc:phrase ref="template/navigation:team"/></a></li>
+	<!-- </ul> 
+   </li> -->
+   
+   <li><a href="{$config{http_url}}/disseminate.html"><epc:phrase ref="template/navigation:disseminate"/></a></li>
 
-  <epp:phrase id="ls_summary_table_eprint_fieldname_ls_round_order">Round</epp:phrase>
-  <epp:phrase id="ls_summary_table_eprint_fieldname_ls_activity">Activity</epp:phrase>
-  <epp:phrase id="ls_summary_table_eprint_fieldname_ls_activity_type">Activity</epp:phrase>
-  <epp:phrase id="ls_summary_table_eprint_fieldname_ls_investigator">Investigator</epp:phrase>
-  <epp:phrase id="ls_summary_table_eprint_fieldname_ls_language">Language</epp:phrase>
-  <epp:phrase id="ls_summary_table_eprint_fieldname_ls_participant">Participant</epp:phrase>
-  <epp:phrase id="ls_summary_table_eprint_fieldname_ls_round">Round</epp:phrase>
-  <epp:phrase id="Update/Views:export_section"></epp:phrase>
-  <epp:phrase id="bin/generate_views:blurb"></epp:phrase>
-  <epp:phrase id="viewname_eprint_language">Language</epp:phrase>
-  <epp:phrase id="viewname_eprint_participant">Participant</epp:phrase>
-  <epp:phrase id="viewname_eprint_activity">Activity</epp:phrase>
-  <epp:phrase id="viewname_eprint_round">Collection Round</epp:phrase>
-  <epp:phrase id="document_fieldopt_ls_document_type_audio_mp3">Audio (MP3)</epp:phrase>
-  <epp:phrase id="document_fieldopt_ls_document_type_audio_wav">Audio (wav)</epp:phrase>
-  <epp:phrase id="document_fieldopt_ls_document_type_transcript">Transcript</epp:phrase>
-  <epp:phrase id="document_fieldopt_ls_document_type_transcript_with_grammar_analysis">Transcript with grammar analysis</epp:phrase>
-  <epp:phrase id="eprint_fieldname_ls_round_order">Data Collection Round</epp:phrase>
-  <epp:phrase id="eprint_fieldname_ls_activity">Activity</epp:phrase>
-  <epp:phrase id="eprint_fieldname_ls_activity_type">Activity Type</epp:phrase>
-  <epp:phrase id="eprint_fieldname_ls_investigator">Investigator</epp:phrase>
-  <epp:phrase id="eprint_fieldname_ls_language">Language</epp:phrase>
-  <epp:phrase id="eprint_fieldname_ls_participant">Participant ID</epp:phrase>
-  <epp:phrase id="eprint_fieldname_ls_round">Data Collection Round</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_brothers_story">Brothers Story</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_cat_story">Cat Story</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_drugs">Drugs</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_fast_food">Fast Food</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_gay_adoption">Gay Adoption</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_interview">Interview</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_sisters_story">Sisters Story</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_type_interview">Interview</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_type_narrative">Narrative</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_activity_type_writing">Writing</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_language_french">French</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_language_spanish">Spanish</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_round_abroad_1">Visit Abroad 1</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_round_abroad_2">Visit Abroad 2</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_round_abroad_3">Visit Abroad 3</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_round_native">Native Speaker</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_round_posttest_1">Posttest 1</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_round_posttest_2">Posttest 2</epp:phrase>
-  <epp:phrase id="eprint_fieldopt_ls_round_pretest">Pretest</epp:phrase>
+<!--
+   <li><a href="{$config{http_url}}/presentations.html" menu="ep_tm_menu_disseminate"><epc:phrase ref="template/navigation:disseminate"/></a>
+	<ul id="ep_tm_menu_disseminate">
+		<li><a href="{$config{http_url}}/presentations.html"><epc:phrase ref="template/navigation:presentations"/></a></li>
+		<li><a href="{$config{http_url}}/publications.html"><epc:phrase ref="template/navigation:publications"/></a></li>
+	</ul>
+   </li>
+-->
 
+<!--   <li><a href="{$config{http_url}}/conference.html"><epc:phrase ref="template/navigation:conference"/></a></li> -->
 
-
-    <epp:phrase id="document_fieldopt_content_audio">Audio Recording</epp:phrase>
-
-    <epp:phrase id="document_fieldopt_content_transcript">Transcript</epp:phrase>
-
-    <epp:phrase id="document_fieldopt_content_transcript_with_grammar_analysis">Transcript with Grammar Analysis</epp:phrase>
-
-    <epp:phrase id="lib/lang/en/phrases:ep_tm_menu_browse">
-    <div class="twelve columns menu horizontal">
-       <!--  <h1 class="hide-on-desktop hide-on-tablet">Main Menu</h1>  -->
-        <ul> 
-		<li>
-	          <a href="{$config{http_url}}">
-	            <epc:phrase ref="template/navigation:home"/>
-	          </a>
-	        </li>
-	        <li>
-	          <a href="{$config{http_url}}/information.html">
-	            <epc:phrase ref="template/navigation:about"/>
-	          </a>
-	        </li>
-<!--	            <li>
-	              <a href="{$config{http_url}}/view/language/">
-	                <epc:phrase ref="bin/generate_views:indextitleprefix"/>
-	                <epc:phrase ref="viewname_eprint_language"/> 
-	              </a>
-	            </li> -->
-	            <li>
-	              <a href="{$config{http_url}}/view/participant/">
-	                <epc:phrase ref="bin/generate_views:indextitleprefix"/>
-	                <epc:phrase ref="viewname_eprint_participant"/>
-	              </a>
-	            </li>
-	            <li>
-	              <a href="{$config{http_url}}/view/activity/">
-	                <epc:phrase ref="bin/generate_views:indextitleprefix"/>
-	                <epc:phrase ref="viewname_eprint_activity"/>
-	              </a>
-	            </li>
-	            <li>
-	              <a href="{$config{http_url}}/view/round/">
-	                <epc:phrase ref="bin/generate_views:indextitleprefix"/>
-	                <epc:phrase ref="viewname_eprint_round"/>
-	              </a>
-	            </li>
-        </ul>
-    </div>
-    </epp:phrase>
+   <li>
+	<a href="{$config{http_url}}/conference.html" menu="ep_tm_menu_conference"><epc:phrase ref="template/navigation:conference"/></a>
+	<ul id="ep_tm_menu_conference">
+		<li><a href="{$config{http_url}}/conferencePlenarySpeakers.html"><epc:phrase ref="template/navigation:conferencePlenarySpeakers"/></a></li>
+		<li><a href="{$config{http_url}}/preConferenceWorkshop.html"><epc:phrase ref="template/navigation:preConferenceWorkshop"/></a></li>
+		<li><a href="{$config{http_url}}/conferencePresnetations.html"><epc:phrase ref="template/navigation:conferencePresnetations"/></a></li>
+		<li><a href="{$config{http_url}}/conferenceProgramme.html"><epc:phrase ref="template/navigation:conferenceProgramme"/></a></li>
+	</ul>
+   </li>
+   
+<!--
+   <li><a href="{$config{http_url}}/view/" menu="ep_tm_menu_browse"><epc:phrase ref="template/navigation:browse"/></a>
+	<ul id="ep_tm_menu_browse">
+		<li><a href="{$config{http_url}}/view/language/"> <epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_language"/></a></li>
+		<li><a href="{$config{http_url}}/view/participant/"><epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_participant"/></a></li>
+		<li><a href="{$config{http_url}}/view/activity/"><epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_activity"/></a></li>
+		<li><a href="{$config{http_url}}/view/round/"><epc:phrase ref="bin/generate_views:indextitleprefix"/><epc:phrase ref="viewname_eprint_round"/></a></li>
+	</ul>
+   </li>
+-->
+   <li><a href="{$config{http_url}}/contact.html"><epc:phrase ref="template/navigation:contact"/></a></li>
+</ul>
+</div>
+</epp:phrase>
 </epp:phrases>
+   
