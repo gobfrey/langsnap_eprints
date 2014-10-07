@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Tasks </xpage:title>
+<xpage:body>
+
+<p>Here we present the three tasks (Oral Interview, Argumentative Essay, Picture-based Narrative) which generated the French/Spanish data made publicly available in the LANGSNAP corpora. </p>
+
+<h3>Oral Interview</h3>
+<p>At every data collection point, a semi-structured oral interview in the target language lasting c. 20 minutes was administered by a member of the research team. On each occasion the questions focused overall on participants’ opinions and experiences about their Year Abroad in France/ Spain/ Mexico, with adaptations to suit the occasion.  For example, during the Pretest they were asked to describe any ideas they had for practicing the language and meeting people,  while during visits abroad they were asked to describe their leisure and work activities, the people they were living with and spending time with, any striking incidents that had happened to them, their plans for the next three months, suggestions they had for students going abroad, and what they might change if they could repeat the experience. The interviews were valuable sources of qualitative information on participants’ language practices and social networks while abroad. In addition they provided rich samples of target language speech, eliciting evidence for a variety of morphosyntactic features (tense, aspect, mood, gender, etc). </p>
+<p>The full interview schedules are available on request from <a href="{$config{base_url}}/contact.html">the research team.</a> </p>
+
+<h3>Written Argumentative Essay</h3>
+<p>At each data collection point participants completed a 200 word argumentative essay in the target language. Three writing prompts were developed; the first two prompts were adapted from the <a href="http://www.uam.es/proyectosinv/woslac/collaborating.htm">CEDEL2 Corpus </a>, by kind permission of Cristobal Lozano. The third prompt was developed by the LANGSNAP team. The three prompts were used in the following sequence:</p>
+
+<dl>
+  <dt>Pretest, Visit 3:</dt>
+  <dd>Penses-tu que les couples homosexuels ont le droit de se marier et d'adoptar des enfants?</dd>  
+  <dd>¿Crees que las parejas gay tienen el derecho de casarse y adoptar ninos?</dd>  
+  <dt>Visit 1, Posttest 1:</dt>
+  <dd>Pensez-vous que la marijuana devrait être légalisée?</dd>  
+  <dd>¿Crees que la marihuana se debería legalizar?</dd> 
+  <dt>Visit 2, Posttest 2:</dt>
+  <dd>Pensez-vous que, de manière à inciter les gens à manger sainement, on devrait taxer les boissons sucrés et les aliments gras?</dd>  
+  <dd>¿Crees que se deberían cobrar impuestos más altos por consumir bebidas gaseosas y/o comida chatarra con el fin de promover una dieta más saludable?</dd> 
+</dl>
+
+<p>The writing task was administered via a computer and timed. After inserting their participant numbers into a specially written program, learners were first shown the prompt on the computer screen and then given three minutes to plan their responses using a piece of paper and pen provided by the research team. After the three minutes had elapsed, they were automatically taken to the main writing page where they were given 15 minutes to write approximately 200 words. The writing page included buttons they could click that would automatically insert the accented character in the text box. Once the 15 minutes had elapsed, the program closed and the participant could not write any more. If participants finished writing in less than 15 minutes, they could click on a ‘submit’ button to finish early. </p>
+<p>The program used to collect the writing data is available on request from <a href="{$config{base_url}}/contact.html">the research team.</a> </p>
+
+<h3>Picture-based narratives</h3>
+<p>A picture-based narrative was used at all 6 data collection points, to elicit oral monologues from individual participants, which could provide evidence in learner production concerning the development of tense and aspect in L2 French and Spanish. The same three picture-based narratives were used in each language, in the following sequence:</p>
+<ul>
+  <li>Pretest and Visit 3:	Cat Story</li>
+  <li>Visit 1 and Posttest 1:	Sisters Story</li>
+  <li>Visit 2 and Posttest 2: 	Brothers Story</li>
+</ul>
+<p>On each occasion the participant was given a few minutes to look through the picture sequence, and then re-told the story in their own words.</p>
+
+<h3>Cat Story</h3>
+<p>The Cat Story was first developed by the <a href="http://www.splloc.soton.ac.uk/splloc2/nypnt.html">SPLLOC2 project</a>. The story is based on "Missing" by Jonathan Langley ©Frances Lincoln 2000 (ISBN 9780711215436), and the pictures were reproduced and adapted with permission. The task was designed to elicit a variety of past tense verb forms (both perfective and imperfective). The story begins with a description of activities that a little girl and her cat would do every morning (the background) before the start of the main storyline, or foreground, in which the little girl and her cat cannot find each other.  </p>
+
+<p class="text-center"><strong>Todas las mañanas eran iguales</strong></p>
+<div class="row">
+   <div class="six columns offset-by-one">
+	<div class="text-center">
+		<img title="esrc-logo" src="{$config{base_url}}/images/nypreading.png" alt="Nati" height="200"/>
+		<br/>Nati...
+	</div>
+   </div>
+   <div class="three columns">
+	<div class="text-center">
+		<img title="esrc-logo" src="{$config{base_url}}/images/nypfield.png" alt="Pancho" height="200"/>
+		<br/>Pancho...
+	</div>
+   </div>
+</div>
+<p class="text-center">Sample images from Cat Story (Spanish version)</p>
+
+<h3>Sisters Story</h3>
+<p>The Sisters Story was also derived from <a href="http://www.splloc.soton.ac.uk/splloc2/lhnt.html">a task developed for the SPLLOC2 project</a>, with slight adaptation.  The main storyline is about two sisters who took a trip together to Spain. The beginning part of the story describes the different kinds of activities that the sisters used to do when they were young to demonstrate their differences which are also apparent in the main events of their trip in Spain.</p>
+
+<p class="text-center">
+<img title="A picture of the sisters" src="{$config{base_url}}/images/sisterStory1.png" alt="A picture of the sisters" height="300" />
+<img title="Sisters at weekend" src="{$config{base_url}}/images/sisterStory2.png" alt="Sisters at weekend" height="300" />
+</p>
+<p class="text-center">Sample images from Sisters Story (French version)</p>
+
+<h3>Brothers Story</h3>
+<p> This story was created by the LANGSNAP research team. It also followed the same structure, starting with habitual information about the relationship between two brothers (e.g., the different things they would happily do together and things that they would fight about), before the main storyline about what happened when the older brother left for university.  </p>
+<p class="text-center">
+<img title="Gustavo misses his brother" src="{$config{base_url}}/images/brothersStory.png" alt="Gustavo misses his brother" height="400" />
+</p>
+<p class="text-center">Sample images from Brothers Story (Spanish version: Gustavo misses his brother!)</p>
+<p>For further information on the story tasks, and any requests to use the complete tasks, please contact <a href="{$config{base_url}}/contact.html">the research team.</a></p>
+
+</xpage:body>
+</xpage:page>

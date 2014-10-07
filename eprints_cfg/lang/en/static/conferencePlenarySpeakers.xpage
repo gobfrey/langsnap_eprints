@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Plenary Speakers</xpage:title>
+<xpage:body>
+
+<div class="text-center">
+<p>Plenary 1 (Thursday 11th April, 10am)</p>
+<p><em>Language Socialization in the Home Stay: American High School Students in China<br /></em><strong>Celeste Kinginger<br /></strong>(Pennsylvania State University)</p>
+<p><a href="http://calper.la.psu.edu/people.php?page=10"><img title="Celeste Kinginger" src="{$config{base_url}}/images/kinginger.jpg" alt="" height="161" width="132" /></a></p>
+</div>
+<p><em>Abstract: </em>The home stay component of study abroad is often credited with particular value for language learning. However, in quantitative studies of university students abroad, the putative “home stay advantage” has been difficult to prove. Some research with high school students suggests that younger students tend to develop more intimate relationships with their hosts than do their older counterparts. Based on audio interviews and recordings of conversational interactions, in this presentation I will draw on the language socialization framework to illustrate how two teenaged learners of Chinese were received by their hosts. Our first case study involves a student of limited Chinese proficiency who was socialized toward the expression of relational identity and familial intimacy through high-risk teasing. The second involves a student of more advanced proficiency who participated in many interactions involving the socialization of taste, including Chinese food ways for the student, and American culinary practices for the family. By way of conclusion, I will consider the implications of the findings and outline some merits of collaborative, intercultural research on study abroad.</p>
+<br />
+<div class="text-center">
+<p>Plenary 2 (Thursday 11th April, 5pm)</p>
+<p><em>Social circles during residence abroad: what students do, and who with<br />
+</em><strong>Jim Coleman</strong><br />
+(Open University, UK)</p>
+<!-- <p><a href="http://www.open.ac.uk/education-and-languages/main/people/j.a.coleman"><img title="Jim Coleman" src="http://fels-staff.open.ac.uk/j.a.coleman/photo" alt="" height="154" width="140"/></a></p> -->
+</div>
+<p><em>Abstract: </em>This paper will seek to bring together some of the theoretical approaches which link residence abroad, social networks, and second language learning, and then to confront them with some of the data available on students’ social activities and linguistic encounters during a sojourn abroad. The applicability of a concentric circles model of socialisation while abroad (Coleman, in press) and of a complex dynamic systems approach will be explored in relation to different study abroad contexts and to the ineptly named ‘multilingual turn’ in language learning research.</p>
+<p>Reference:<br />
+Coleman, J. A. (in press). Researching whole people and whole lives. In C. Kinginger (ed.) Social and Cultural Aspects of Cross-Border Language Learning in Study Abroad. Amsterdam &amp; Philadelphia, John Benjamins.</p>
+<br />
+<div class="text-center">
+<p>Plenary 3 (Friday 12th April, 12am)</p>
+<p><em>The Impact of Temporary Study Abroad<br />
+</em><strong>Ulrich Teichler<br />
+</strong>(University of Kassel, Germany)</p>
+<p><a href="http://www.uni-kassel.de/einrichtungen/en/incher/team/teichler-ulrich.html"><img title="Ulrich Teichler" src="{$config{base_url}}/images/teichler_ulrich_small.jpg" alt="" height="143" width="127" /></a></p>
+</div>
+<p><em>Abstract:</em> In Europe, the ERASMUS programme was established in 1987 with the vision that eventually 10% of students inEuropewould spent a period in another European country during the course of study. The Leuven 2009 of the Ministers involved in the Bologna Process set a respective target of 20% for 2010. This underscores how highly temporary, “horizontal” outbound mobility of students is appreciated in Europe. Based on various evaluation studies, the author of this presentation has argued that “learning from contrast” is the key value of horizontal mobility, i.e. study in another country in the framework of study provisions more or less equally to those at home. Various surveys show that formerly mobile students do not achieve a substantially higher professional status than formerly non-mobile and are considered only slightly more professional competent. They seem to be clearly more competent, however, to handle international environments, and they are clearly more likely to be internationally mobile after graduation. However, a survey undertaken some years ago suggests that temporary mobility withinEuropemight loose its exceptionality, thus raising the question how international learning could be more creative in the future.</p>
+ 
+</xpage:body>
+</xpage:page>

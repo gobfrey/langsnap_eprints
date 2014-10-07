@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Pre-Conference Workshop</xpage:title>
+<xpage:body>
+
+
+<p>University of Southampton, Avenue Campus<br />
+10<sup>th</sup> April 2013<br />
+13.30 – 17.00 hrs</p>
+<h2>Workshop 1</h2>
+<p><span class="item_title"> Formatting and Analysing a Learner Corpus using CHAT &amp; CLAN </span>(available for free from <a href="http://childes.psy.cmu.edu/">http://childes.psy.cmu.edu/</a>)<br />
+Dr Kevin McManus &amp; Dr Nicole Tracy-Ventura<br />
+University of Southampton</p>
+<p><a href="{$config{base_url}}/linked_files/Pre-Conference-Workshop_Langsnap.pdf">Download pdf</a></p>
+<p>The popularity of research involving learner corpora, or electronic collections of learner language which are formatted for use with computer aided tools, has grown significantly over the years. To date, several freely available collections of learner corpora exist in a variety of languages. Much time and effort goes into designing, collecting, and formatting corpora, therefore when researchers make their work freely available it is a big service to us all. The CHILDES project (Child Language Data Exchange) has been a leader in this area for two decades now and coordinates the <em>Talkbank</em> database where one can find a range of first and second language corpora, all formatted for use with the CLAN program, also freely available. Once one learns to use the CLAN program, a whole new world of language-related research becomes available. </p>
+<p>This seminar will consist of an introduction to the CHILDES Project, CHAT transcription<em>, </em>and the CLAN program.<em> </em>Several hands-on activities will be used so that by the end of the seminar you will know how to run some major analyses using CLAN on corpora available via Talkbank. You will also learn  how to format your own corpus in CHAT for later use with CLAN.   </p>
+
+
+<h2>Workshop 2</h2>
+<p><span class="item_title">Fluency Analysis</span><br />
+Dr. Nivja de Jong<br />
+Utrecht University</p>
+<p><a href="{$config{base_url}}/linked_files/LANGSNAP_dejong.pdf">Download pdf</a></p>
+<p>Fluency is an important aspect of L2 speaking proficiency and learning to speak in the L2 with a native-like smoothness is one of the most difficult goals to attain. Several studies have investigated how studying abroad versus staying at home is related to development of fluency (e.g., Segalowitz &amp; Freed, 2004). In research on L2 fluency a multitude of measures is used. In this workshop, you will learn which measures of fluency are most informative by understanding the mathematic formulae to calculate them. Another goal of the workshop is to give the participants hands-on experience with the software program PRAAT (Boersma &amp; Weenink, 2010), and to learn how it can be used to measure the different aspects of speaking fluency. Finally, participants will learn how to use a script written in PRAAT for automatic measurement of fluency (De Jong &amp; Wempe, 2009).</p>
+
+<h2>Workshop 3</h2>
+<p><span class="item_title"> Issues and Methods in Researching Social Networks: Tools, Trends, and Applications to Language Learning Research</span></p>
+<p>Dr Dan P. Dewey,  Dr Jennifer Bown, and Shayla Johnson<br />
+Brigham Young University</p>
+<p><a href="{$config{base_url}}/linked_files/Social-Network-Workshop-Southampton-2013.pdf">Download pdf</a></p>
+<p>The purpose of this workshop is to provide an overview of the traditions, tools, and terms used in social network (SN) analysis, in particular in sociology, where the history is the longest. We hope to enrich the current repertoire of SN tools used in SLA.  In addition to providing a brief history of SN research and summarizing current trends, we will describe ways of measuring SNs, tools for describing and diagramming networks, and key terms and constructs used in the field. In conclusion we will cite examples of SN research in SLA and provide suggestions for future research using tools and terms currently neglected in SLA studies.</p>
+<p>The presentation will include a brief discussion of the peculiarity of relational data (data involving dynamic social relationships) and will describe ways of collecting SN data (questionnaires, interviews, observations, documentary research such as journals, roster vs. naming procedures, etc.) and of diagramming and statistically analyzing that data (matrixes, sociograms, diagrams, etc.).  We will present the various ways of coding, quantifying, and labeling SN data, including network size, intensity, durability, density, reachability, reciprocity, multiplicity, adjacency, centrality, betweenness, bridging, bonding, clustering, strong and weak ties, localism, open and closed networks, multiplexity, anchorage, and other such terms. We will draw on key sources in SN research for descriptions, definitions, etc. (see reference list below).  We will also introduce the few terms developed by SLA SN researchers, such as academic and non-academic networks (Ferenz, 2005) and Individual Networks of Practice (Palfreyman, 2006).  We will also describe trends toward more qualitative network analysis and will make suggestions for implementing some of the more quantitative SN constructs in qualitative research involving identity, agency, affordances, etc.  Given the breadth of possible coverage, a handout will be provided to supplement the presentation.</p>
+
+
+
+</xpage:body>
+</xpage:page>
+

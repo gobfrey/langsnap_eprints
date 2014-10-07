@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>The L2 Spanish participants</xpage:title>
+<xpage:body>
+
+<p>There were 27 L2 Spanish participants in the LANGSNAP project, who spent their year abroad in either Spain or Mexico. The L2 Spanish corpus has been anonymised and participants are identified in the repository by codes 151-180.</p>
+<p>Ten Spanish native speakers undertaking residence abroad in the UK also undertook all Spanish versions of the production tasks and are identified by codes 185-194.</p>
+<p>All of the learner participants had studied Spanish for a minimum of two years, and a majority had started the language part way through secondary school. Unlike the French group, only a minority (n= 7) had started the language at the beginning of secondary schooling or earlier.</p>
+<p>Almost all L2 Spanish participants were working as teaching assistants, or undertaking student exchanges, with just one participant undertaking a workplace internship. Most Mexico-based teaching assistants were placed in universities, while those in Spain were placed in schools.  Key characteristics of the individual participants recorded prior to residence abroad are:</p>
+
+<table class="table">
+	<tr>
+		<th>Ident-ifying code</th>
+		<th>Age</th>
+		<th>Gender</th>
+		<th>First language(s)</th>
+		<th>Other langs studied pre-university</th>
+		<th>Other langs studied at university</th>
+		<th>No. years studying Spanish</th>
+		<th>Placement type during residence abroad (S = Spain, M = Mexico)</th>
+	</tr>
+	<tr><td>150</td><td>?</td><td>F</td><td>English</td><td>?</td><td>?</td><td>?</td><td>Workplace intern (S)</td></tr>
+	<tr><td>151</td><td>21</td><td>F</td><td>English</td><td>French</td><td>French</td><td>2</td><td>Teaching assistant (S)</td></tr>
+	<tr><td>152</td><td>20</td><td>F</td><td>English</td><td>German</td><td>-</td><td>9</td><td>Exchange student (S)</td></tr>
+	<tr><td>155</td><td>20</td><td>M</td><td>English</td><td>French</td><td>French German</td><td>4</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>156</td><td>20</td><td>M</td><td>English</td><td>French</td><td>French</td><td>9</td><td>Exchange student (S)</td></tr>
+	<tr><td>157</td><td>20</td><td>F</td><td>English</td><td>French</td><td>French</td><td>3</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>158</td><td>25</td><td>F</td><td>Polish English</td><td>English German</td><td>English German</td><td>3</td><td>Workplace intern (S)</td></tr>
+	<tr><td>160</td><td>20</td><td>M</td><td>English</td><td>French</td><td>-</td><td>9</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>161</td><td>20</td><td>F</td><td>English</td><td>French</td><td>French</td><td>2</td><td>Teaching assistant (S)</td></tr>
+	<tr><td>162</td><td>20</td><td>M</td><td>English</td><td>French German</td><td>French German</td><td>2</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>163</td><td>25</td><td>F</td><td>English</td><td>-</td><td>-</td><td>14</td><td>Exchange student (S)</td></tr>
+	<tr><td>164</td><td>22</td><td>F</td><td>English</td><td>French</td><td>French</td><td>4</td><td>Exchange student (S)</td></tr>
+	<tr><td>165</td><td>20</td><td>F</td><td>Polish</td><td>English French</td><td>English Italian</td><td>2</td><td>Exchange student (S)</td></tr>
+	<tr><td>166</td><td>20</td><td>F</td><td>English</td><td>French Italian</td><td>French</td><td>4</td><td>Exchange student (S)</td></tr>
+	<tr><td>167</td><td>22</td><td>F</td><td>English</td><td>French German</td><td>French</td><td>2</td><td>Teaching assistant (S)</td></tr>
+	<tr><td>168</td><td>20</td><td>F</td><td>English</td><td>French German</td><td>French</td><td>2</td><td>Exchange student (S)</td></tr>
+	<tr><td>169</td><td>20</td><td>F</td><td>English</td><td>French</td><td>French</td><td>8</td><td>Exchange student (S)</td></tr>
+	<tr><td>170</td><td>20</td><td>M</td><td>English</td><td>-</td><td>-</td><td>7</td><td>Teaching assistant (S)</td></tr>
+	<tr><td>171</td><td>20</td><td>F</td><td>English</td><td>French</td><td>French</td><td>6</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>172</td><td>20</td><td>F</td><td>English</td><td>French</td><td>-</td><td>9</td><td>Exchange student (S)</td></tr>
+	<tr><td>173</td><td>20</td><td>M</td><td>English</td><td>French</td><td>French</td><td>6</td><td>Teaching assistant (S)</td></tr>
+	<tr><td>174</td><td>20</td><td>F</td><td>English</td><td>French</td><td>French</td><td>9</td><td>Teaching assistant (S)</td></tr>
+	<tr><td>175</td><td>?</td><td>M</td><td>English</td><td>French Latin</td><td>-</td><td>7</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>177</td><td>20</td><td>F</td><td>English</td><td>French</td><td>French Portuguese</td><td>5</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>178</td><td>21</td><td>F</td><td>English</td><td>-</td><td>-</td><td>7</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>179</td><td>20</td><td>F</td><td>English</td><td>German</td><td>-</td><td>9</td><td>Teaching assistant (M)</td></tr>
+	<tr><td>180</td><td>21</td><td>F</td><td>English</td><td>French German</td><td>French</td><td>2</td><td>Teaching assistant (S)</td></tr>
+	<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	<tr><td>185</td><td>20</td><td>F</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>186</td><td>21</td><td>M</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>187</td><td>23</td><td>F</td><td>Spanish (Mexico)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>188</td><td>21</td><td>F</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>189</td><td>20</td><td>M</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>190</td><td>23</td><td>M</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>191</td><td>21</td><td>F</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>192</td><td>22</td><td>M</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>193</td><td>27</td><td>M</td><td>Spanish (Mexico)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+	<tr><td>194</td><td>21</td><td>M</td><td>Spanish (Spain)</td><td>?</td><td>?</td><td>n.a.</td><td>Exchange student</td></tr>
+
+</table>
+
+</xpage:body>
+</xpage:page>
+
