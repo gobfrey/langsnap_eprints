@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"  standalone="no"  ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:head>
+  <link rel="alternate" type="application/rss+xml" title="Items in {phrase('archive_name')}" href="{$config{http_cgiurl}}/latest_tool?output=RSS2"></link>
+  <link rel="alternate" type="application/atom+xml" title="Items in {phrase('archive_name')}" href="{$config{http_cgiurl}}/latest_tool?output=Atom"></link>
+  <link rel="alternate" type="application/rdf+xml" title="Repository Summary RDF+XML" href="{$config{http_cgiurl}}/export/repository/RDFXML/devel.rdf"></link>
+  <link rel="alternate" type="text/n3" title="Repository Summary RDF+N3" href="{$config{http_cgiurl}}/export/repository/RDFN3/devel.n3"></link>
+</xpage:head>
+<xpage:title>Welcome to <epc:phrase ref="archive_name" /></xpage:title>
+<xpage:body>
+
+
+<div class="ep_toolbox">
+ <div class="ep_toolbox_content" >
+  <p>Publications Reference</p>
+  <p>Researchers using this repository are asked to acknowledge the LANGSNAP project <a href="http://langsnap.soton.ac.uk/">http://langsnap.soton.ac.uk/</a> in any publication arising from their work. They are also asked to acknowledge the CHILDES project as outlined at <a href="http://childes.psy.cmu.edu">http://childes.psy.cmu.edu.</a> </p>
+ </div>
+</div>
+
+<p>The aim of this repository is to promote research on the learning of French and Spanish as L2, by making parallel learner corpora for each language freely available to the research community.</p>
+
+<p>The learner corpora made available here were collected during 2011-13, as part of the research project "Social networks, target language interaction, and second language acquisition during the year abroad: A longitudinal study" (LANGSNAP Project: : ESRC research award number <a href="http://www.esrc.ac.uk/my-esrc/grants/RES-062-23-2996/read">RES-062-23-2996</a>). The LANGSNAP corpora include both spoken and written data produced over a 21-month period by advanced (university-level) learners of French and Spanish.</p>
+
+<p>All participants were speakers of English as their L1/ dominant language, and were studying languages at a British university. To complete their course requirements, all participants were required to spend the third year of their four-year programme in a French- or Spanish-speaking country. The participants chose between three different types of placement abroad: a language teaching assistantship, enrolment at a partner university, or a workplace internship. The L2 production data were collected on 6 occasions, before, during and after the period of residence abroad.</p>
+
+<p>The publicly available repository includes three types of data for each language, collected on all 6 occasions: </p>
+
+<ul>
+  <li>Oral interviews (where participants took part in a semi-structured interview led by a member of the research team);</li>
+  <li>Story retelling (where participants retold a story guided by a sequence of pictures);</li>
+  <li>Argumentative writing (where participants wrote a timed 200-word response to a stimulus question).</li>
+</ul>
+
+<a href="http://www.esrc.ac.uk/"><img class="text_wrap_right"  title="esrc-logo" src="{$config{base_url}}/images/esrc-logo-150x150.jpg" height="150" width="150"/></a>
+
+<p>The data available in this repository includes anonymised audio recordings of the oral interview and story retelling data, as well as transcripts of all data in CHAT format. To access and explore the data, click on the "Browse" tab above. </p>
+
+<p>The repository adds new advanced learner corpora to the existing Southampton University collections of L2 French available at <a href="http://www.flloc.soton.ac.uk/">www.flloc.soton.ac.uk</a>, and of learner Spanish available at <a href="http://www.splloc.soton.ac.uk/">www.splloc.soton.ac.uk</a>. </p>
+
+<p>Researchers making use of the repository are expected to adhere generally to the researcher and user <a href="http://talkbank.org/share/">ground rules</a> which have been developed by the <a href="http://childes.psy.cmu.edu/">CHILDES</a> project at Carnegie Mellon University, USA. </p>
+
+
+</xpage:body>
+</xpage:page>

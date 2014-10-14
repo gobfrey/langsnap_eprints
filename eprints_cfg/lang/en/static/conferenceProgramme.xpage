@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Programme</xpage:title>
+<xpage:body>
+
+<p><strong>*The final conference programme can be downloaded here: </strong><a href="{$config{base_url}}/linked_files/Final-programme.pdf">Final programme</a></p>
+
+<h2>Conference outline:</h2>
+<p><a title="Pre-Conference Workshop" href="http://langsnap.soton.ac.uk/conference-2/pre-conference-workshop-2/"><strong>WEDNESDAY, 10 April, 2013: Pre-Conference Workshop</strong></a><br />
+Additional fee of £15, limited seats</p>
+
+<table class="table programme">
+	<tr>
+		<td>13.30-14.30</td>	
+		<td>Workshop 1
+			<br /><em>Formatting and Analysing a Learner Corpus using CHAT &amp; CLAN </em>(<a href="http://childes.psy.cmu.edu/clan/">http://childes.psy.cmu.edu/clan/</a>)
+			<br />Dr Kevin McManus &amp; Dr Nicole Tracy-Ventura
+			<br />(University of Southampton)
+		</td>
+	</tr>
+	<tr>
+		<td>14.30-15.30 </td>	
+		<td>Workshop 2
+			<br />Fluency Analysis
+			<br />Dr Nivja de Jong
+			<br />(Utrecht University)
+		</td>
+	</tr>
+	<tr>
+		<td>15.30-16.00 </td>	
+		<td>Tea</td>
+	</tr>
+	<tr>
+		<td>16.00-17.00 </td>	
+		<td>Workshop 3:
+			<br />Issues and Methods in Researching Social Networks: Tools, Trends, and Applications to Language Learning Research
+			<br />Dr Dan P. Dewey,  Dr Jennifer Bown, and Shayla Johnson
+			<br />(Brigham Young University)
+		</td>
+	</tr>
+</table>
+<br />
+
+<p><strong>THURSDAY, 11th April, 2013: Conference Day 1</strong></p>
+<table class="table programme">
+	<tr>
+		<td>8:30-10:00</td>
+		<td>Coffee &amp; Registration</td>
+	</tr>
+	<tr>
+		<td>9.00-9:45</td>
+		<td><a href="{$config{base_url}}/linked_files/ReN-agenda.pdf">AILA ReN meeting</a></td>
+	</tr>
+	<tr>
+		<td>9:50-10.00</td>
+		<td>Welcome etc</td>
+	</tr>
+	<tr>
+		<td>10.00-11.00 </td>
+		<td><a href="{$config{base_url}}/conferencePlenarySpeakers.html"> Plenary 1</a>
+			<br />Language Socialization in the Home Stay: American High School Students in China
+			<br />Celeste Kinginger
+			<br />(Pennsylvania State University)
+		</td>
+	</tr>
+	<tr>
+		<td>11.05-12.45 </td>
+		<td>Papers</td>
+	</tr>
+	<tr>
+		<td>12.45-13.45 </td>
+		<td>Lunch</td>
+	</tr>
+	<tr>
+		<td>13.45-14:15 </td>
+		<td>Posters</td>
+	</tr>
+	<tr>
+		<td>14.20-15.25 </td>
+		<td>Papers</td>
+	</tr>
+	<tr>
+		<td>15.25-15.55 </td>
+		<td>Coffee/Tea</td>
+	</tr>
+	<tr>
+		<td>15.55-17.00 </td>
+		<td>Papers</td>
+	</tr>
+	<tr>
+		<td>17.05-18.05 </td>
+		<td><a href="{$config{base_url}}/conferencePlenarySpeakers.html"> Plenary 2</a>
+			<br />Social circles and research into study abroad
+			<br />Jim Coleman
+			<br />(Open University, UK)
+		</td>
+	</tr>
+	<tr>
+		<td>19:00- </td>
+		<td>Conference Dinner (optional, additional fee £21)</td>
+	</tr>
+</table>
+<br />
+
+<p><strong>FRIDAY, 12th  April, 2013: Conference Day 2 </strong></p>
+<table class="table programme">
+	<tr>
+		<td>9:00-10.30</td>
+		<td>LANG-SNAP Colloquium</td>
+	</tr>
+	<tr>
+		<td>10.30-10.50</td>
+		<td>Coffee</td>
+	</tr>
+	<tr>
+		<td>10.50-11.55</td>
+		<td>Papers</td>
+	</tr>
+	<tr>
+		<td>12.00-13.00 </td>
+		<td><a href="{$config{base_url}}/conferencePlenarySpeakers.html"> Plenary 3</a>
+			<br /><em>The Impact of Temporary Study Abroad</em>
+			<br />Ulrich Techler
+			<br />(University of Kassel, Germany)
+		</td>
+	</tr>
+	<tr>
+		<td>13.00-14.00</td>
+		<td>Lunch</td>
+	</tr>
+	<tr>
+		<td>14.00-15.40</td>
+		<td>Papers</td>
+	</tr>
+	<tr>
+		<td>15.40-16.10</td>
+		<td>Coffee/Tea</td>
+	</tr>
+	<tr>
+		<td>16.10-17.00</td>
+		<td>Roundtable Discussion &amp; Closing</td>
+	</tr>
+</table>
+
+
+</xpage:body>
+</xpage:page>

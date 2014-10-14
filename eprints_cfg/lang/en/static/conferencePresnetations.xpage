@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Presentations</xpage:title>
+<xpage:body>
+
+<h2>Keynote talks</h2>
+<ul>
+	<li>
+		<p><strong>Jim Coleman</strong>(Open University, UK)<br />
+		Social circles and research into study abroad<br />
+		<a title="podcast Coleman" href="http://coursecast.soton.ac.uk/Panopto/Pages/Viewer/Default.aspx?id=6307855c-7cf3-4cb7-894c-d2111b898d34" target="_blank">podcast</a></p>
+	</li>
+	<li>
+		<p><strong>Celeste Kinginger</strong> (Pennsylvania State University, USA)<br />
+		Language Socialization in the Home Stay: American High School Students in China<br />
+		<a title="podcast Kinginger" href="http://coursecast.soton.ac.uk/Panopto/Pages/Viewer/Default.aspx?id=f71d80df-8e71-4813-87a9-5a74da001829" target="_blank">podcast</a></p>
+	</li>
+	<li>
+		<p><strong>Ulrich Teichler</strong>(University of Kassel, Germany)<br />
+		The Impact of Temporary Study Abroad<br />
+		<a href="{$config{base_url}}/linked_files/Teichler.pdf">pdf</a></p>
+	</li>
+</ul>
+
+<h2>Conference presentations</h2>
+<ul>
+	<li>
+		<p><strong>Sandrine Aguerre and Agnès Bracke</strong>(Université Bordeaux 3)<br />
+		The Erasmus Community: from a community of practice to a learning community<br />
+		<a href="{$config{base_url}}/linked_files/Bracke-Aguerre1.pdf">pdf</a></p>
+	</li>
+	<li>
+		<p><strong>Rikki Campbell</strong>(Monash University, Australia)<br />
+		The impact of study abroad on Japanese language learners’ out-ofclass interaction and social networks<br />
+		<a href="{$config{base_url}}/linked_files/Campbell.pdf">pdf</a></p>
+        </li>
+        <li>
+      		<p><strong>Benedicte Cebrian,Christine Penman andSibylle Ratz</strong>(Edinburgh Napier University)<br />
+		Studying and Living Abroad – A undergraduate module at Edinburgh Napier University<br />
+		<a href="{$config{base_url}}/linked_files/Ratz.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Francesca Di Silvio, Anne Donovan, Margaret E. Malone </strong>(Center for Applied Linguistics)<br />
+		Promoting oral proficiency gain in study abroad homestay placements.<br />
+		<a href="{$config{base_url}}/linked_files/Promoting-Oral-Proficiency-Gain-in-Study-Abroad-Homestay-Placements_Southampton-1.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Claudia Fernández</strong>(Knox College /Universidad de Barcelona)<br />
+		How much L2 grammar development occurs while studying abroad?: A more realistic picture<br />
+		<a href="{$config{base_url}}/linked_files/Fernández.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Rozenn Gautier &amp;Jean-Pierre Chevrot</strong> (Université Grenoble)<br />
+		Social network during SA experience, an exploratory follow up<br />
+		<a href="{$config{base_url}}/linked_files/Gautier-Chevrot.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Judit Kormos, KataCsizér and JaninaIwaniec</strong> (Lancaster University)<br />
+		A mixed method study of language learning motivation and intercultural contact of international students in the United Kingdom<br />
+		<a href="{$config{base_url}}/linked_files/Kormos.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Rosamond Mitchell, Nicole Tracy-Ventura, Kevin McManus, Laurence Richard, and Patricia Romero de Mills (University of Southampton), with Jean-Marc Dewaele (Birkbeck, University of London)</strong><br />
+		The influence of social networks, personality and placement type on language learning during residence abroad:<br />
+		Preliminary findings of the LANGSNAP project<br />
+		<a href="{$config{base_url}}/linked_files/LANGSNAP-Colloquium.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Emma Trentman</strong>(University of New Mexico)<br />
+		Identity Negotiation and Access to Arabic During Study Abroad in Egypt<br />
+		<a href="{$config{base_url}}/linked_files/Trentman.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Henry Tyne</strong>(Université de Perpignan Via Domitia)<br />
+		An investigation of learner knowledge of lexicon in a study abroad context<br />
+		<a href="{$config{base_url}}/linked_files/Tyne.pdf">pdf</a></p>
+        </li>
+        <li>
+		<p><strong>Ruth Whittle</strong>(University of Birmingham)<br />
+		Expectations, Expectations …<br />
+		<a href="{$config{base_url}}/linked_files/Whittle.pdf">pdf</a></p>
+	</li>
+</ul>
+</xpage:body>
+</xpage:page>

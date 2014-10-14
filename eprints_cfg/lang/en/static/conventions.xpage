@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Transcription conventions</xpage:title>
+<xpage:body>
+
+<p>Here we describe some of the general decisions we have taken in the transcribing of spoken L2 French and L2 Spanish, using the CHAT system developed by the CHILDES project. We also describe below some of the adaptations we have made to the CHAT system, in the context of L2 data. 
+Detailed guides to the transcription of L2 French and L2 Spanish using CHAT conventions has been produced and the most recent versions are available on request to the research team. </p>
+
+<h2>Anonymisation</h2>
+<p>All transcripts and sound files have been anonymised to eliminate personal details so that individual learners are not identifiable.</p>
+
+<h2>Filenames and headers</h2>
+<p>Filenames include a single capital letter code for the task, a 3-digit code for the participant, a single lower case letter code for the data collection occasion, plus the initials of the researcher who administered the task.  Thus for example the filename “O114bKmcM” refers to the Oral Interview task undertaken by Participant 114 during the second data collection round (Visit 1), and administered by researcher Kevin McManus.</p>
+<p>Headers for all transcribed files follow CHAT conventions. Here is an example:</p>
+	<ol>
+	  <li>@Begin</li>
+	  <li>@Languages:	fra</li>
+	  <li>@Participants:	114 Participant, KMcM Investigator</li>
+	  <li>@ID:	fra|langsnap|114||female|V1|interview|Participant||</li>
+	  <li>@ID:	fra|langsnap|KMcM||male||interview|Investigator||</li>
+	  <li>@Media:	O114bKMcM, audio</li>
+	  <li>@Date:	15-NOV-2011</li>
+	  <li>@Location:	France</li>
+	  <li>@Situation:	Oral interview</li>
+	  <li>@Transcriber:	CD</li>
+	  <li>@Time Duration:	00:21:02</li> 	  
+	</ol>
+
+<h2>Orthographic Transcription  </h2>
+<p>The data has been transcribed orthographically. This is necessary in order to use the morphosyntactic parsers provided by CHILDES/ CLAN for French and Spanish on the completed transcripts. In the interests of automatic part of speech (POS) tagging at times the transcription is somewhat deviant from the actual phonological shape of the words produced by learners. However other researchers interested in e.g. L2 phonology, can refer to the soundfiles and add their own level of coding to the transcripts provided.</p>
+<h2>Limited use of the Error Tier (%err) </h2>
+<p>We have not consistently used an error tier, which was not necessary for our research agenda, as the syntactic and morphological errors made by our L2 learners can be retrieved more systematically from the POS tagged output. </p>
+
+	<table>
+	<tr>
+	  <td>*114:</td>
+	  <td>et euh la plupart de mes élèves sont des garçons parce+que c' est un lycée technique euh.</td>		
+	</tr>
+	<tr>
+	  <td>*114:</td>
+	  <td>et ils sont très difficiles .</td>		
+	</tr>
+	<tr>
+	  <td>*114:</td>
+	  <td>et donc c' est difficile de faire les exercices oraux [*] parce+que ils veulent toujours parler en français.
+	</td>	
+	</tr>
+	<tr>
+	  <td>%err:</td>
+	  <td>oraux = orals</td>	
+	</tr>
+	</table>
+
+<h2>Pauses </h2>
+<p>All pauses are indicated with (.) and have not been timed.</p>
+
+<h2>Overlapping </h2>
+<p>Overlapping of speech turns in the written transcripts is indicated using standard CHAT conventions.</p>
+
+<h2>Mean Length of Utterance </h2>
+<p>The speech turns for the L2 learner(s) in every file have been separated into distinct utterances as per CHILDES conventions, so MLU calculations can be carried out. However this has not been done for the researcher speech turns, so MLU calculations on the researchers' length of utterance will not be accurate. </p>
+
+<h2>L2 adaptations </h2>
+<p>A number of codes have been added to the CHAT system for the specific purposes of second language research. These codes cover the following issues:</p>
+
+<dl>
+  <dt>Use of L1 English (complete utterances and/ or codeswitching at word or phrase level)</dt>
+	  <dd>Codeswitching at word or phrase level. We mark that by adding "@s:" followed by an individual code corresponding to different word classes (e.g. noun (d), verb (v) etc.; see Transcription Guidelines document for detail): </dd>
+	  <dd>*P63: y cómo se dice scuba@s:d diving@s:v ? </dd>  
+	  <dd>Complete utterances. Marked between square brackets starting with the code "^eng:": </dd>  
+	  <dd>*P04: [^ eng: I don't know what that means ]. </dd>
+  <dt>Direct learner imitations of investigator utterances, marked with "@g" at the end of the imitated word. </dt>
+	  <dd>*P51: no están en el sol están en shade@s:d. </dd>  
+	  <dd>*MJA: la sombra. </dd>  
+	  <dd>*P51: la@g sombra@g. </dd>
+  <dt>Use by learners of indeterminate forms and idiosyncratic neologisms, marked with :"@n" at the end of the word. </dt>
+	  <dd>*P54: um ehm detrás de lo eh pictura@n eh hay [/] hay un número de turistas . *</dd>
+</dl>
+
+
+</xpage:body>
+</xpage:page>

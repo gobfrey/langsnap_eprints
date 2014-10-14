@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Contact us</xpage:title>
+<xpage:body>
+
+<h3>Staff contact details</h3>
+
+<p>If you would like to contact a member of our staff, please find information from <a href="{$config{base_url}}/team.html">The Team</a>.</p>
+
+<h3>Postal Address</h3>
+<p>
+LANGSNAP Project<br/>
+Modern Languages<br/>
+University of Southampton<br/>
+University Road<br/>
+Southampton SO17 1BJ
+</p>
+
+<h3>General enquiries</h3>
+
+<p>
+Email: <a href="mailto:admissions@southampton.ac.uk">admissions@southampton.ac.uk</a><br/>
+Tel. +44 (0)23 8059 5000<br/>
+Fax  +44 (0)23 8059 3131<br/>
+</p>
+
+</xpage:body>
+</xpage:page>

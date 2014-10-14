@@ -1,0 +1,128 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Dissemination</xpage:title>
+<xpage:body>
+
+
+<h2>Publications</h2>
+<ul class="publication">
+<li>McManus, K., Tracy-Ventura, N., Mitchell, R., Richard, L., &amp; Romero de Mills, P. (in press). <a href="http://eprints.soton.ac.uk/346934/">Exploring the acquisition of the French subjunctive: local syntactic context or oral proficiency? </a>In P. Leclercq, H. Hilton, &amp; A. Edmonds (Eds.), Proficiency Assessment Issues in SLA Research: Measures and Practices. Bristol, GB: Multilingual Matters.</li>
+
+<li>Tracy-Ventura, N., McManus, K., Norris, J. M. &amp; Ortega, L. (in press). <a href="http://eprints.soton.ac.uk/349888/">"Repeat as much as you can": Elicited imitation as a measure of oral proficiency in L2 French. </a>In P. Leclercq, H. Hilton, &amp; A. Edmonds (Eds.), Proficiency Assessment Issues in SLA Research: Measures and Practices. Bristol, GB: Multilingual Matters.</li>
+</ul>
+
+<h2>Presentations</h2>
+<table class="table">
+<!--
+<tr>
+  <td rowspan="2">L2 Proficiency Assessment Workshop</td>
+  <td rowspan="2">February 2012</td>
+  <td rowspan="2">Montpellier</td>
+  <td>'Assessing modality in a second language'</td>
+</tr><tr>
+  <td>'“Repeat as much as you can”: Elicited imitation as a measure of global proficiency in L2 French'</td>
+</tr>
+-->
+<tr>
+  <td>L2 Proficiency Assessment Workshop</td>
+  <td>February 2012</td>
+  <td>Montpellier</td>
+  <td>'Assessing modality in a second language'
+	<br /><br />'“Repeat as much as you can”: Elicited imitation as a measure of global proficiency in L2 French'</td>
+</tr>
+
+<tr>
+  <td>AAAL Annual Conference</td>
+  <td>March 2012</td>		
+  <td>Boston</td>
+  <td>'Social Networks, Target Language Interaction and Second language Acquisition during Residence Abroad: A Longitudinal Study'</td>
+</tr><tr>
+  <td>AFLS Annual Conference</td>
+  <td>June 2012</td>		
+  <td>Newcastle</td>
+  <td>'Réseaux sociaux, interaction et acquisition d'une langue seconde au cours de l'année à l'étranger'</td>
+</tr>
+<!--
+<tr>
+  <td rowspan="2">Language Futures: Languages in Higher Education</td>
+  <td rowspan="2">July 2012</td>
+  <td rowspan="2">Edinburgh</td>
+  <td>'Language Assistantships and Student Exchange: a comparison of students' linguistic development during different residence abroad programmes'</td>
+</tr><tr>
+  <td>'Doing residence abroad in a globalising world: Real, virtual and imagined communities'</td>
+</tr>
+-->
+
+<tr>
+  <td>Language Futures: Languages in Higher Education</td>
+  <td>July 2012</td>
+  <td>Edinburgh</td>
+  <td>'Language Assistantships and Student Exchange: a comparison of students' linguistic development during different residence abroad programmes'
+ 	<br /><br />'Doing residence abroad in a globalising world: Real, virtual and imagined communities'</td>
+</tr>
+<tr>
+  <td>EUROSLA Annual Conference</td>
+  <td>August 2012</td>		
+  <td>Poznan</td>
+  <td>'Social network analysis as a means to investigate input and interaction during residence abroad'</td>
+</tr><tr>
+  <td>Annual Meeting, British Assoc for Applied Linguistics</td>
+  <td>September 2012</td>		
+  <td>Southampton</td>
+  <td>'A comparative study of social networks of British undergraduates during residence abroad in France, Spain and Mexico'</td>
+</tr><tr>
+  <td>Second Language Research Forum</td>
+  <td>October 2012</td>		
+  <td>Pittsburgh</td>
+  <td>'A longitudinal investigation of L1 and L2 use during residence/study abroad'</td>
+</tr><tr>
+  <td>AFLS Annual Conference</td>
+  <td>June 2013</td>		
+  <td>Perpignan</td>
+  <td>'Réseaux sociaux, interaction, et développement lexical au cours de l'année à l'étranger'</td>
+</tr><tr>
+  <td>EUROSLA Annual Conference</td>
+  <td>August 2013</td>		
+  <td>Amsterdam</td>
+  <td>'Impact of social networking and social integration on development of L2 accuracy and fluency during residence abroad: a comparative longitudinal study'</td>
+</tr><tr>
+  <td>Learner Corpus Research Conference</td>
+  <td>September 2013</td>		
+  <td>Bergen</td>
+  <td>'A longitudinal learner corpus investigation of vocabulary learning before, during, and after residence abroad'</td>
+</tr><tr>
+  <td>Memorial Symposium for Rosita Rindler Scherve</td>
+  <td>March 2014</td>		
+  <td>Vienna</td>
+  <td>'Language practices during residence abroad: through the lens of LINEE'</td>
+</tr><tr>
+  <td>The expression of temporality by L2 learners of French and English</td>
+  <td>May 2014</td>		
+  <td>Montpellier</td>
+  <td>'The development of the subjunctive in French L2'</td>
+</tr><tr>
+  <td>AFLS Annual Conference</td>
+  <td>June 2014</td>		
+  <td>Canterbury</td>
+  <td>'Diversity in language learning: deconstructing the 'study abroad' experience in France'</td>
+</tr><tr>
+  <td>LLAS Conference</td>
+  <td>July 2014</td>		
+  <td>Southampton</td>
+  <td>'Promoting intercultural learning among Anglophone students during residence abroad'</td>
+</tr><tr>
+  <td>AILA Congress</td>
+  <td>August 2014</td>		
+  <td>Brisbane</td>
+  <td>'Real and virtual social networking and language learning during residence abroad'</td>
+</tr><tr>
+  <td>EUROSLA Annual Conference</td>
+  <td>September 2014</td>		
+  <td>York</td>
+  <td>'“It's just a matter of time”: The development of grammatical accuracy during residence abroad'</td>
+</tr>
+</table>
+
+</xpage:body>
+</xpage:page>
